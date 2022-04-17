@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1643708488 source:c:\users\pc\documents\5543\main.cpp
+	<string>
+	<iostream>
+	<stdint-gcc.h>
+	<cctype>
+	<stdio.h>
+
+1644491728 source:c:\users\pc\documents\tic tac toe-35929-project\main.cpp
+	<string>
+	<iostream>
+	<cctype>
+	<iomanip>
+
+1644864928 source:c:\users\z4hac\downloads\tic tac toe-35929-project-20220213t040807z-001\tic tac toe-35929-project\main.cpp
+	<string>
+	<iostream>
+	<cctype>
+	<iomanip>
+	<windows.h>
+
